@@ -1,7 +1,7 @@
 
 <center><font size="+2"> Quiz 3 </font></center>
 
-**Question 1** As we discussed in class, a Collateralized Mortgage Obligation (CMO) is a collection of cash flows that are crated by tranching the payments from a standard MBS pool. The underlying foundation for a Collateralized Mortgage Obligation (CMO) is the cash flows from a standard MBS pool. The only restriction on the manner in which CMO tranches are formed is that at every point in time all cash flows form the underlying mortgage-pool must be distributed as interest or principal somewhere in the CMO structure.1 At each point in time, the outstanding balance on all CMO tranches will be equal to the outstanding balance on the underlying mortgage pool.
+**Question 1**  As we discussed in class, a Collateralized Mortgage Obligation (CMO) is a collection of cash flows that are crated by tranching the payments from a standard MBS pool. The underlying foundation for a Collateralized Mortgage Obligation (CMO) is the cash flows from a standard MBS pool. The only restriction on the manner in which CMO tranches are formed is that at every point in time all cash flows form the underlying mortgage-pool must be distributed as interest or principal somewhere in the CMO structure.1 At each point in time, the outstanding balance on all CMO tranches will be equal to the outstanding balance on the underlying mortgage pool.
 
 (1) What is the reason that Collateralized Mortgage Obligations (CMOs) wereintroduced to the market?
 
