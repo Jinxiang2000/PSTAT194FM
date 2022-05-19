@@ -1,21 +1,32 @@
 
 <center><font size="+2"> Quiz 3 </font></center>
+<center><font size="+1"> Jinxiang Ma </font></center>
 
 **Question 1**  As we discussed in class, a Collateralized Mortgage Obligation (CMO) is a collection of cash flows that are crated by tranching the payments from a standard MBS pool. The underlying foundation for a Collateralized Mortgage Obligation (CMO) is the cash flows from a standard MBS pool. The only restriction on the manner in which CMO tranches are formed is that at every point in time all cash flows form the underlying mortgage-pool must be distributed as interest or principal somewhere in the CMO structure.1 At each point in time, the outstanding balance on all CMO tranches will be equal to the outstanding balance on the underlying mortgage pool.
 
-(1) What is the reason that Collateralized Mortgage Obligations (CMOs) wereintroduced to the market?
+(1) What is the reason that Collateralized Mortgage Obligations (CMOs) were introduced to the market?
 
-_The reason why collateralized mortgaged obligation(CMOs) were introduced to the markets is to mitigate the adverse effect of prepayment._
+
+> _The reason why collateralized mortgaged obligation(CMOs) were introduced to the markets is to mitigate the adverse effect of prepayment._
+
+
+
+
 
 
 (2) Describe the basic idea behind a sequential pay CMO.
 
- 
+ >_A sequential pay CMO is a pooled debt instrument where the tranches are amortized in order of maturity. Each tranche receive interest payment as long as the tranche's principal amount has not been completely paid off. When the initial principal payement retired, the next tranche receive all the principal payments._
 
 
 
 
 (3) You are advising an insurance investor client on a simple two tranche sequential CMO where the total MBS pool is 100,000,000 and the two sequential pay tranches are structured to be 50,000,000 each and are referred to as A-tranche and B-tranche. This CMO is setup for you in the spreadsheet ‘Sequential Pay Q1.xlsx’. If your client is concerned that prepayments will be high (as a percentage of PSA) and their main concern is to fund payments that are required from long-term insurance liabilities, would your recommend either A-tranche or B-tranche as a suitable investment? Why?
+
+>_When the prepayment accelerates, the cash is flowing through faster on A-tranche, the A-tranche shortens first because it takes all of the principal prepayment. A-tranche loses its balance and gets interest payment at the same time, whereas B-tranche only gets interest payment. As soon as the A-tranche balance goes to zero, the balance of the B-tranch begins to decline. The payment of the B-tranche accelerate at the beginning but died down very quickly, so B-tranche will receive more interest and it has some protection against prepayment. Since we are focused on long-term insurance liabilities, I would recommend B-tranche as a suitable investment and it helps to prevent the maturity mismatch cause by prepayment._ 
+
+
+
 
 **Question 2** Run the AIRG Economic Scenario Generator as of December 2020
 (which is the default time for the file link I provided). Use 1000 scenarios, 30 year projection, Separate *.csv file for each term to maturity, monthly time step and output rates as Bond Rates (bond equivalent).
